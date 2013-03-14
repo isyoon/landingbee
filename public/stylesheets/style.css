@@ -5,3 +5,16 @@ body {
 a {
   color: #00b7ff;
 }
+.admin {
+  overflow: hidden;
+}
+.admin .left {
+  width: 200px;
+  float: left;
+}
+.admin .right {
+  margin-left: 220px;
+}
+.nm {
+  margin: 0 !important;
+}
